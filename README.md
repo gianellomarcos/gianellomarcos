@@ -11,10 +11,7 @@ Estoy desarrollando proyectos de análisis de datos.
 ---
 
 ## Herramientas y Tecnologías
-
-
-
-- Trabajo principalmente con Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL, PowerBi y Git.
-● Item
-○ Item
--- ko
+- SQL
+- Excel
+- PowerBI
+- Python, Pandas, NumPy, Matplotlib y Seaborn
