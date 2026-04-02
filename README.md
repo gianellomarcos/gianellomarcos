@@ -1,13 +1,11 @@
 ## 👋 Hola
 
-Soy Gianello, un analista de datos enfocado en transformar datos en insights y decisiones.
+Soy Gianello, analista de datos.
 
+Transformo datos en insights y decisiones que generan impacto.
 
-## 🛠️ Herramientas
+Si encuentro un problema interesante en los datos, lo analizo, lo entiendo y construyo una solución.
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL y Power BI.
+Estoy desarrollando proyectos de análisis de datos.
 
-
-## 💡 Sobre mí
-
-Me gusta explorar datos, encontrar patrones y construir soluciones que generen impacto. Disfruto trabajar con datos reales y resolver problemas prácticos.
+Trabajo principalmente con Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL, PowerBi y Git.
