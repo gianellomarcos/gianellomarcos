@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hola
 
-<!--
-**gianellomarcos/gianellomarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Gianello, un analista de datos enfocado en transformar datos en insights y decisiones.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL y Power BI.
+
+
+## 💡 Sobre mí
+
+Me gusta explorar datos, encontrar patrones y construir soluciones que generen impacto. Disfruto trabajar con datos reales y resolver problemas prácticos.
