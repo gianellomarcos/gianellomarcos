@@ -13,5 +13,5 @@ Estoy desarrollando proyectos de análisis de datos.
 ## Herramientas y Tecnologías
 - SQL
 - Excel
-- PowerBI
+- PowerBI y Tableau
 - Python, Pandas, NumPy, Matplotlib y Seaborn
