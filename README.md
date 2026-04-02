@@ -8,4 +8,13 @@ Si encuentro un problema interesante en los datos, lo analizo, lo entiendo y con
 
 Estoy desarrollando proyectos de análisis de datos.
 
-Trabajo principalmente con Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL, PowerBi y Git.
+---
+
+## Herramientas y Tecnologías
+
+
+
+- Trabajo principalmente con Python, Pandas, NumPy, Matplotlib, Seaborn, Excel, SQL, PowerBi y Git.
+● Item
+○ Item
+-- ko
